@@ -1,5 +1,5 @@
 # Ticket System
-> Ticket system application built with the MERN stack that allow teams to manage tracking bugs and other support issues.
+> Ticketing system application built with the MERN stack
 
 ## Built with
 * Mongoose.js (MongoDB Atlas): Database
